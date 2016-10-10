@@ -4,4 +4,3 @@
 def say_hello():
 	print("Say hello")
 
-say_hello()
